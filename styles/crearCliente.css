@@ -63,7 +63,7 @@ h2{
     color: var(--color-secondary);
     font-size: 30px;
 }
-input, select {
+input, select, textarea {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
