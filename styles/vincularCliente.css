@@ -1,0 +1,12 @@
+nav {
+    justify-content: center;
+}
+.div-de-opciones{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px 0px;
+}
+.btn-crear{
+    margin-left: 20px;
+}
